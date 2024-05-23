@@ -24,6 +24,7 @@ if(score>=33 and presence_percentage>=75):
 else:
     print("failed!")"""
 #4.3.1
+#4.3.1
 """a=int(input("enter the number:"))
 a=int(a)
 if(a%2)==0:

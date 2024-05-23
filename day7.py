@@ -42,6 +42,16 @@ elif 'a'<= char <='z':
      print(f"{char} is a small letter.")
 else:
      print(f"{char} is not a letter.")
+     
+#ex.3
+
+char=str(input("charecter:"))
+if 'A'<= char<='Z':
+     print(f"{char} is a capital letter.")
+elif 'a'<= char <='z':
+     print(f"{char} is a small letter.")
+else:
+     print(f"{char} is not a letter.")
 
 
 
